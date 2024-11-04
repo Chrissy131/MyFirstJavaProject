@@ -37,3 +37,5 @@ class TextHandler {
         System.out.println("Antal tecken: " + stats.getTotalCharacters());
     }
 }
+
+//test

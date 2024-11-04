@@ -32,3 +32,5 @@ class TextStatisticsTest {
         assertEquals(2, stats.getLineCount(), "Antal rader borde vara 2.");
     }
 }
+
+//test
